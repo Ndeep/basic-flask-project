@@ -1,1 +1,5 @@
 
+https://www.reddit.com/r/django/comments/9z5zxj/twoscoops_suggests_keeping_business_logic_out_of/
+https://steelkiwi.com/blog/best-practices-working-django-models-python/
+https://micropyramid.com/blog/how-to-add-a-custom-managers-in-django/
+https://dzone.com/articles/django-settings-production-and
