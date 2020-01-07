@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block page_content %}
+<h1>Users page</h1>
+{% endblock %}
+
+{% block page_styles %}
+<link rel="stylesheet" href="{{ url_for('users.static', filename='css/users.css') }}">
+{% endblock %}
+
+{% block page_scripts %}
+<script src="{{ url_for('users.static', filename='js/users.js') }}"></script>
+{% endblock %}
